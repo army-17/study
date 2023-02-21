@@ -1,5 +1,5 @@
 # study
 
 
-##loginPage
+## loginPage
 간단한 회원가입, 로그인 페이지를 만들어보는 내용으로 기존에 공부하였던 내용을 상기시키기 위해 JPA 방식을 이용하여 thymeleaf 템플릿 엔진을 이용함.
